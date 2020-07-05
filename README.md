@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="web/src/assets/home-background.png" />
+<img src="web/src/assets/ecoleta.png" />
 </h1>
 
 <h1 align="center">
