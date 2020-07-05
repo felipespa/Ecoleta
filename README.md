@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="frontend/src/assets/home-background.png" />
+<img src="web/src/assets/home-background.png" />
 </h1>
 
 <h1 align="center">
@@ -7,7 +7,7 @@ Ecoleta - Um marktplace de coleta de resíduos
   <br>
   <br>
 
-  <img src="frontend/src/assets/logo.svg" alt="TinDev LOGO" width="300">
+  <img src="web/src/assets/logo.svg" alt="TinDev LOGO" width="300">
 
   <br>  
   <br>
